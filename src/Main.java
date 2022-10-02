@@ -16,6 +16,7 @@ public class Main {
             System.out.println("Сегодня пятница, " + dayOfReport + "-e число. Необходимо подготовить отчет.");
             dayOfReport = dayOfReport  + 7;
         }
+
         //Задача 3
         int beginYearOfFlight = 1817;
         int endYearOfFlight = 2054;
